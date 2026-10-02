@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 💬 Ask me about ...
+- 🔭 I'm currently working on AI internships to elevate my career 
+- 🌱 I'm currently learning Software Engineering @ AAU - AAiT mainly focusing on AI/ML, model training and AGI
+- 😄 Pronouns: HE/HIM
 
 ---
 
 # 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prince_milli)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:millely.getinet@gmail.com)
 
 ---
 
